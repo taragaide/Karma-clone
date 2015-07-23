@@ -531,8 +531,8 @@ button:hover {
     cursor: pointer;
 }
 .social .fa-twitter:before {
-	cursor: pointer;
-	content: "\f099";
+    cursor: pointer;
+    content: "\f099";
        }
 
     .social .twitter {
@@ -541,7 +541,7 @@ button:hover {
     }
 
     .social .fa-facebook:before {
-	cursor: pointer;
+    cursor: pointer;
     }
 
     .social .facebook {
@@ -557,3 +557,8 @@ button:hover {
     font-weight: 300;
     color: #838994;
     }
+}
+
+.footer {
+clear: both;
+}
